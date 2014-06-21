@@ -27,7 +27,7 @@
 		5B0E8B78195518E600FAFB16 /* ECSlidingSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E8B70195518E600FAFB16 /* ECSlidingSegue.m */; };
 		5B0E8B79195518E600FAFB16 /* ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E8B72195518E600FAFB16 /* ECSlidingViewController.m */; };
 		5B0E8B7A195518E600FAFB16 /* UIViewController+ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E8B74195518E600FAFB16 /* UIViewController+ECSlidingViewController.m */; };
-		5B0E8B831955195000FAFB16 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B0E8B811955195000FAFB16 /* Main_iPhone.storyboard */; };
+		5B0E8B8619551E1A00FAFB16 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B0E8B8419551E1A00FAFB16 /* Main_iPhone.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -73,7 +73,7 @@
 		5B0E8B72195518E600FAFB16 /* ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ECSlidingViewController.m; sourceTree = "<group>"; };
 		5B0E8B73195518E600FAFB16 /* UIViewController+ECSlidingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ECSlidingViewController.h"; sourceTree = "<group>"; };
 		5B0E8B74195518E600FAFB16 /* UIViewController+ECSlidingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ECSlidingViewController.m"; sourceTree = "<group>"; };
-		5B0E8B821955195000FAFB16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../../Downloads/ECSlidingViewController-master/Examples/BasicMenu/BasicMenu/Base.lproj/Main_iPhone.storyboard"; sourceTree = "<group>"; };
+		5B0E8B8519551E1A00FAFB16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,7 +133,7 @@
 		5B0E8B32195518BE00FAFB16 /* ProjectA */ = {
 			isa = PBXGroup;
 			children = (
-				5B0E8B811955195000FAFB16 /* Main_iPhone.storyboard */,
+				5B0E8B8419551E1A00FAFB16 /* Main_iPhone.storyboard */,
 				5B0E8B67195518E600FAFB16 /* ECSlidingViewController */,
 				5B0E8B3B195518BE00FAFB16 /* AppDelegate.h */,
 				5B0E8B3C195518BE00FAFB16 /* AppDelegate.m */,
@@ -271,8 +271,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5B0E8B8619551E1A00FAFB16 /* Main_iPhone.storyboard in Resources */,
 				5B0E8B43195518BE00FAFB16 /* Main_iPad.storyboard in Resources */,
-				5B0E8B831955195000FAFB16 /* Main_iPhone.storyboard in Resources */,
 				5B0E8B4B195518BE00FAFB16 /* Images.xcassets in Resources */,
 				5B0E8B37195518BE00FAFB16 /* InfoPlist.strings in Resources */,
 			);
@@ -348,10 +348,10 @@
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
-		5B0E8B811955195000FAFB16 /* Main_iPhone.storyboard */ = {
+		5B0E8B8419551E1A00FAFB16 /* Main_iPhone.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				5B0E8B821955195000FAFB16 /* Base */,
+				5B0E8B8519551E1A00FAFB16 /* Base */,
 			);
 			name = Main_iPhone.storyboard;
 			sourceTree = "<group>";
