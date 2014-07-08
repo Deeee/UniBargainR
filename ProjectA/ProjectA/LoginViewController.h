@@ -8,7 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LoginViewController : UIViewController
+@interface LoginViewController : UIViewController <UITextFieldDelegate>
 @property(nonatomic, strong) IBOutlet UITextField *userName;
 @property(nonatomic, strong) IBOutlet UITextField *userPassword;
+@property NSString *testServer;
+- (IBAction)sigininClicked:(id)sender;
+- (IBAction)backgroundTap:(id)sender;
+
 @end

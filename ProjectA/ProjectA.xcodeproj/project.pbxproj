@@ -29,6 +29,21 @@
 		5B0E8B7A195518E600FAFB16 /* UIViewController+ECSlidingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E8B74195518E600FAFB16 /* UIViewController+ECSlidingViewController.m */; };
 		5B0E8B8619551E1A00FAFB16 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B0E8B8419551E1A00FAFB16 /* Main_iPhone.storyboard */; };
 		5B0E8B8C1955490800FAFB16 /* LoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5B0E8B8B1955490800FAFB16 /* LoginViewController.m */; };
+		5BA5F33F196AFF4500D59E66 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F33D196AFF4500D59E66 /* button.png */; };
+		5BA5F340196AFF4500D59E66 /* button.psd in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F33E196AFF4500D59E66 /* button.psd */; };
+		5BA5F343196B247900D59E66 /* tab.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F341196B247900D59E66 /* tab.png */; };
+		5BA5F344196B247900D59E66 /* tab.psd in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F342196B247900D59E66 /* tab.psd */; };
+		5BA5F346196B3D9500D59E66 /* 1404783595_menu-24 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F345196B3D9500D59E66 /* 1404783595_menu-24 copy.png */; };
+		5BA5F348196B3E7100D59E66 /* bar_item.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F347196B3E7100D59E66 /* bar_item.png */; };
+		5BA5F34A196B3F2C00D59E66 /* new_post.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F349196B3F2C00D59E66 /* new_post.png */; };
+		5BA5F34D196B43B200D59E66 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BA5F34C196B43B200D59E66 /* HomeViewController.m */; };
+		5BA5F34F196B760D00D59E66 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F34E196B760D00D59E66 /* background.png */; };
+		5BA5F351196B79F400D59E66 /* crayon effect.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F350196B79F400D59E66 /* crayon effect.png */; };
+		5BA5F353196B7F3E00D59E66 /* rolling_sun.fla in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F352196B7F3E00D59E66 /* rolling_sun.fla */; };
+		5BA5F355196B833A00D59E66 /* rolling_sun.swf in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F354196B833A00D59E66 /* rolling_sun.swf */; };
+		5BA5F357196B896A00D59E66 /* crayon effect2.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F356196B896A00D59E66 /* crayon effect2.png */; };
+		5BA5F359196C61E100D59E66 /* company_icon_small.psd in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F358196C61E100D59E66 /* company_icon_small.psd */; };
+		5BA5F35B196C61F900D59E66 /* company_icon_small.png in Resources */ = {isa = PBXBuildFile; fileRef = 5BA5F35A196C61F900D59E66 /* company_icon_small.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,6 +92,22 @@
 		5B0E8B8519551E1A00FAFB16 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		5B0E8B8A1955490800FAFB16 /* LoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginViewController.h; sourceTree = "<group>"; };
 		5B0E8B8B1955490800FAFB16 /* LoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginViewController.m; sourceTree = "<group>"; };
+		5BA5F33D196AFF4500D59E66 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		5BA5F33E196AFF4500D59E66 /* button.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = button.psd; sourceTree = "<group>"; };
+		5BA5F341196B247900D59E66 /* tab.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tab.png; sourceTree = "<group>"; };
+		5BA5F342196B247900D59E66 /* tab.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = tab.psd; sourceTree = "<group>"; };
+		5BA5F345196B3D9500D59E66 /* 1404783595_menu-24 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1404783595_menu-24 copy.png"; sourceTree = "<group>"; };
+		5BA5F347196B3E7100D59E66 /* bar_item.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar_item.png; sourceTree = "<group>"; };
+		5BA5F349196B3F2C00D59E66 /* new_post.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = new_post.png; sourceTree = "<group>"; };
+		5BA5F34B196B43B200D59E66 /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		5BA5F34C196B43B200D59E66 /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		5BA5F34E196B760D00D59E66 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
+		5BA5F350196B79F400D59E66 /* crayon effect.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crayon effect.png"; sourceTree = "<group>"; };
+		5BA5F352196B7F3E00D59E66 /* rolling_sun.fla */ = {isa = PBXFileReference; lastKnownFileType = file; path = rolling_sun.fla; sourceTree = "<group>"; };
+		5BA5F354196B833A00D59E66 /* rolling_sun.swf */ = {isa = PBXFileReference; lastKnownFileType = file; path = rolling_sun.swf; sourceTree = "<group>"; };
+		5BA5F356196B896A00D59E66 /* crayon effect2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "crayon effect2.png"; sourceTree = "<group>"; };
+		5BA5F358196C61E100D59E66 /* company_icon_small.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = company_icon_small.psd; sourceTree = "<group>"; };
+		5BA5F35A196C61F900D59E66 /* company_icon_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = company_icon_small.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,11 +167,14 @@
 		5B0E8B32195518BE00FAFB16 /* ProjectA */ = {
 			isa = PBXGroup;
 			children = (
+				5BA5F33C196AFF4500D59E66 /* Support */,
 				5B0E8B8419551E1A00FAFB16 /* Main_iPhone.storyboard */,
 				5B0E8B8A1955490800FAFB16 /* LoginViewController.h */,
 				5B0E8B8B1955490800FAFB16 /* LoginViewController.m */,
 				5B0E8B67195518E600FAFB16 /* ECSlidingViewController */,
 				5B0E8B3B195518BE00FAFB16 /* AppDelegate.h */,
+				5BA5F34B196B43B200D59E66 /* HomeViewController.h */,
+				5BA5F34C196B43B200D59E66 /* HomeViewController.m */,
 				5B0E8B3C195518BE00FAFB16 /* AppDelegate.m */,
 				5B0E8B41195518BE00FAFB16 /* Main_iPad.storyboard */,
 				5B0E8B44195518BE00FAFB16 /* MasterViewController.h */,
@@ -198,6 +232,27 @@
 				5B0E8B74195518E600FAFB16 /* UIViewController+ECSlidingViewController.m */,
 			);
 			path = ECSlidingViewController;
+			sourceTree = "<group>";
+		};
+		5BA5F33C196AFF4500D59E66 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				5BA5F35A196C61F900D59E66 /* company_icon_small.png */,
+				5BA5F358196C61E100D59E66 /* company_icon_small.psd */,
+				5BA5F356196B896A00D59E66 /* crayon effect2.png */,
+				5BA5F354196B833A00D59E66 /* rolling_sun.swf */,
+				5BA5F352196B7F3E00D59E66 /* rolling_sun.fla */,
+				5BA5F350196B79F400D59E66 /* crayon effect.png */,
+				5BA5F34E196B760D00D59E66 /* background.png */,
+				5BA5F349196B3F2C00D59E66 /* new_post.png */,
+				5BA5F347196B3E7100D59E66 /* bar_item.png */,
+				5BA5F345196B3D9500D59E66 /* 1404783595_menu-24 copy.png */,
+				5BA5F341196B247900D59E66 /* tab.png */,
+				5BA5F342196B247900D59E66 /* tab.psd */,
+				5BA5F33D196AFF4500D59E66 /* button.png */,
+				5BA5F33E196AFF4500D59E66 /* button.psd */,
+			);
+			path = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,9 +331,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BA5F357196B896A00D59E66 /* crayon effect2.png in Resources */,
+				5BA5F348196B3E7100D59E66 /* bar_item.png in Resources */,
+				5BA5F34F196B760D00D59E66 /* background.png in Resources */,
 				5B0E8B8619551E1A00FAFB16 /* Main_iPhone.storyboard in Resources */,
+				5BA5F346196B3D9500D59E66 /* 1404783595_menu-24 copy.png in Resources */,
+				5BA5F353196B7F3E00D59E66 /* rolling_sun.fla in Resources */,
+				5BA5F355196B833A00D59E66 /* rolling_sun.swf in Resources */,
+				5BA5F33F196AFF4500D59E66 /* button.png in Resources */,
 				5B0E8B43195518BE00FAFB16 /* Main_iPad.storyboard in Resources */,
+				5BA5F344196B247900D59E66 /* tab.psd in Resources */,
+				5BA5F35B196C61F900D59E66 /* company_icon_small.png in Resources */,
+				5BA5F340196AFF4500D59E66 /* button.psd in Resources */,
+				5BA5F343196B247900D59E66 /* tab.png in Resources */,
 				5B0E8B4B195518BE00FAFB16 /* Images.xcassets in Resources */,
+				5BA5F351196B79F400D59E66 /* crayon effect.png in Resources */,
+				5BA5F359196C61E100D59E66 /* company_icon_small.psd in Resources */,
+				5BA5F34A196B3F2C00D59E66 /* new_post.png in Resources */,
 				5B0E8B37195518BE00FAFB16 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -304,6 +373,7 @@
 				5B0E8B79195518E600FAFB16 /* ECSlidingViewController.m in Sources */,
 				5B0E8B8C1955490800FAFB16 /* LoginViewController.m in Sources */,
 				5B0E8B46195518BE00FAFB16 /* MasterViewController.m in Sources */,
+				5BA5F34D196B43B200D59E66 /* HomeViewController.m in Sources */,
 				5B0E8B77195518E600FAFB16 /* ECSlidingInteractiveTransition.m in Sources */,
 				5B0E8B39195518BE00FAFB16 /* main.m in Sources */,
 				5B0E8B75195518E600FAFB16 /* ECPercentDrivenInteractiveTransition.m in Sources */,
