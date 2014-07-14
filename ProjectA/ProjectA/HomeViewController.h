@@ -7,7 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "DoubleScrollView.h"
 @interface HomeViewController : UIViewController
-
+@property (nonatomic, strong) IBOutlet DoubleScrollView *doubleScroll;
+@property IBOutlet InfiniteScrollView *leftScrollView;
+@property IBOutlet InfiniteScrollView *rightScrollView;
 @end

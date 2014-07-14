@@ -7,7 +7,7 @@
 //
 
 #import "AppDelegate.h"
-
+#import "UIImage.h"
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
@@ -18,6 +18,12 @@
         UINavigationController *navigationController = [splitViewController.viewControllers lastObject];
         splitViewController.delegate = (id)navigationController.topViewController;
     }
+    //create background images for the navigation bar
+    //replace "nil" with your method to programmatically create a UIImage object with transparent colors for portrait orientation
+    UIImage *gradientImage32 = nil; //replace "nil" with your method to programmatically create a UIImage object with transparent colors for landscape orientation
+    
+    //customize the appearance of UINavigationBar
+
     return YES;
 }
 							
