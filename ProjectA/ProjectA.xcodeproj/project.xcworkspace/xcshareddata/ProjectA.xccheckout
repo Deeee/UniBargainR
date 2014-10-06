@@ -10,29 +10,29 @@
 	<string>ProjectA</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>8C77B516-5707-482C-87E2-A3A1A82392E5</key>
+		<key>F7CBCC59C3D2C3C4EE289EB2D885B8787E721BFA</key>
 		<string>https://github.com/Deeee/UniBargainR.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>ProjectA/ProjectA.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>8C77B516-5707-482C-87E2-A3A1A82392E5</key>
+		<key>F7CBCC59C3D2C3C4EE289EB2D885B8787E721BFA</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Deeee/UniBargainR.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>8C77B516-5707-482C-87E2-A3A1A82392E5</string>
+	<string>F7CBCC59C3D2C3C4EE289EB2D885B8787E721BFA</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>8C77B516-5707-482C-87E2-A3A1A82392E5</string>
+			<string>F7CBCC59C3D2C3C4EE289EB2D885B8787E721BFA</string>
 			<key>IDESourceControlWCCName</key>
 			<string>UniBargain</string>
 		</dict>

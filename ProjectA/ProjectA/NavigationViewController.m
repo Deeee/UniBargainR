@@ -28,6 +28,7 @@
     [super viewDidLoad];
     [self.navigationBar setBackgroundImage:[UIImage new] forBarMetrics:UIBarMetricsDefault];
     self.navigationBar.shadowImage = [UIImage new];
+    self.navigationBar.barTintColor = [UIColor redColor];
     self.navigationBar.translucent = YES;
     // Do any additional setup after loading the view.
 }

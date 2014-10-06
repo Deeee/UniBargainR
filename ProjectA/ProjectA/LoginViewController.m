@@ -34,7 +34,6 @@
     // Do any additional setup after loading the view.
     self.userPassword.placeholder = [NSString stringWithFormat:@"Enter Password"];
     self.userName.placeholder = [NSString stringWithFormat:@"Enter Username"];
-
 }
 
 - (void)didReceiveMemoryWarning
