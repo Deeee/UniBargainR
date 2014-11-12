@@ -31,11 +31,11 @@
 //    self.navigationController.navigationBar.shadowImage = [UIImage new];
 //    self.navigationController.navigationBar.translucent = YES;
 //    
-    UIImage *gradientImage44 = [UIImage imageWithColor:[UIColor colorWithRed:255 green:221 blue:131 alpha:0.8]];
-    
-    [[UINavigationBar appearance] setBackgroundImage:gradientImage44 forBarMetrics:UIBarMetricsDefault];
-//    [[UINavigationBar appearance] setBackgroundImage:gradientImage32 forBarMetrics:UIBarMetricsLandscapePhone];
-    [[UINavigationBar appearance] setBarStyle:UIBarStyleDefault];
+//    UIImage *gradientImage44 = [UIImage imageWithColor:[UIColor colorWithRed:255 green:221 blue:131 alpha:0.8]];
+//    
+//    [[UINavigationBar appearance] setBackgroundImage:gradientImage44 forBarMetrics:UIBarMetricsDefault];
+////    [[UINavigationBar appearance] setBackgroundImage:gradientImage32 forBarMetrics:UIBarMetricsLandscapePhone];
+//    [[UINavigationBar appearance] setBarStyle:UIBarStyleDefault];
     doubleScroll = [[DoubleScrollView alloc] initWithFrame: doubleScroll.frame];
 //    [UIScrollView beginAnimations:@"scrollAnimation" context:nil];
 //    

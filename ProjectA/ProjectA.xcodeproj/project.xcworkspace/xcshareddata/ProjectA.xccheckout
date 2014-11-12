@@ -14,7 +14,7 @@
 		<string>https://github.com/Deeee/UniBargainR.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ProjectA/ProjectA.xcodeproj/project.xcworkspace</string>
+	<string>ProjectA/ProjectA.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F7CBCC59C3D2C3C4EE289EB2D885B8787E721BFA</key>
